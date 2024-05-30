@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "**/views/**/*.html": "django-html",
+        "*.html": "html",
+        "*.js": "javascript",
+        "*.c": "c",
+        "test-utils.h": "c",
+        "osmem.h": "c",
+        "block_meta.h": "c",
+        "array": "c",
+        "hash_map": "c",
+        "bitset": "c",
+        "string_view": "c",
+        "format": "c",
+        "initializer_list": "c",
+        "span": "c",
+        "valarray": "c"
+    }
+}
